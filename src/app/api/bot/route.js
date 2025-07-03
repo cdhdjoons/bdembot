@@ -11,8 +11,8 @@ await bot.init();
 bot.command("start", async (ctx) => {
   const keyboard = {
     inline_keyboard: [
-      [{ text: "🔘 Start Game 🚀 ", web_app: { url: "https://bdemgame.vercel.app" } }],  // 게임 링크 수정
-      // [{ text: "🔘 Follow on X 🐦", url: "https://x.com/Judo_Shiba" }],
+      [{ text: "🔘 Start Game ✨ ", web_app: { url: "https://bdemgame.vercel.app" } }],  // 게임 링크 수정
+      [{ text: "🔘 Go to Mars 🚀", url: "https://x.com/BarbieDogeElonM" }],
       [{ text: "🔘 Join Telegram Chat 💬 ", url: "https://t.me/bdemchat" }],
       // [{ text: "🔘 Visit Website 🌐", url: "https://www.karateinu.xyz" }],
       // [{ text: "🔘 Read Master book 📖", url: "https://www.karateinu.xyz" }],
