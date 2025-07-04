@@ -36,7 +36,7 @@ You've just entered the sparkliest, barkiest, most chaotic multiverse ever creat
 Tap a button below to enter:
   `;
 
-  const pngUrl = 'https://bdembot.vercel.app/bdempic.png';  // public 폴더에 있는 이미지 파일 경로
+  const pngUrl = 'https://bdembot.vercel.app/bdempic2.jpg';  // public 폴더에 있는 이미지 파일 경로
 
   // ✅ GIF + 메시지 + 버튼을 한 번에 보냄
   await ctx.replyWithPhoto(pngUrl, {
